@@ -22,9 +22,9 @@
 | `teknisi`  | `teknisi`  | teknisi@gmail.com  | Sudah    | teknisi  |
 
 11. Selesai.
-12. Kabarkan ke saya jika tidak berhasil :
-    | email | WA / Telegram | Instagram |
-    | :-------------------- | :--------------- | :----------------- |
+12. Kabarkan ke saya jika tidak berhasil.
+    | email | WA or Telegram | Instagram |
+    | :------------------------ | :--------------------- | :---------------------------------------------- |
     | fari.msenju@gmail.com | 081215869294 | [Muhammad Fari Madyan.](https://www.instagram.com/farimadyan/) |
 
 ## Spesifikasi Project
